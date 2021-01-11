@@ -1,0 +1,1 @@
+This is a Simple To Do list Application Built on HTML/CSS/JS.
